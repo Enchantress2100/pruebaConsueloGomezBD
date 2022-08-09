@@ -185,12 +185,3 @@ INNER JOIN socio
 ON socio.rut=prestamo.socio_libro
 GROUP BY socio.rut
 ORDER BY deuda;
-
-
-
-
-
-
-
-
-
